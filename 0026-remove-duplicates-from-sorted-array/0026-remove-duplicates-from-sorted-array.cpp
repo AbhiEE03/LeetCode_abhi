@@ -10,8 +10,8 @@ public:
                 continue;
             }else {
                 // swap(nums[l+1],nums[r]);
-                nums[l+1]=nums[r];
                 l++;
+                nums[l]=nums[r];
                 continue;
             }
         }
