@@ -1,20 +1,43 @@
 class Solution {
 public:
-    int maximumEnergy(vector<int>& energy, int k) {
-        int n=energy.size();
-        vector<int> prefix(n,0);
 
-        for(int i=n-1; i>=0; i--){
-            prefix[i]=energy[i];
-            
-           if(i+k < n){
-            prefix[i]= prefix[i+k] + energy[i];
-           }
-        }
+    int n,K;
+    int gain(int i, vector<int>& energy){
+        if(i>=n) return 0;
 
-        return *max_element(prefix.begin(), prefix.end());
+        return energy[i] + gain(i+K, energy);
     }
+
+    int maximumEnergy(vector<int>& energy, int k) {
+        n=energy.size(), K=k;
+        int maxEnergy=INT_MIN;
+
+        for(int i=0; i<n; i++){
+            maxEnergy= max(maxEnergy, gain(i, energy));
+        }
+        return maxEnergy;
+    }   
 };
+
+
+// // // PREFIX SUM //
+// class Solution {
+// public:
+//     int maximumEnergy(vector<int>& energy, int k) {
+//         int n=energy.size();
+//         vector<int> prefix(n,0);
+
+//         for(int i=n-1; i>=0; i--){
+//             prefix[i]=energy[i];
+            
+//            if(i+k < n){
+//             prefix[i]= prefix[i+k] + energy[i];
+//            }
+//         }
+
+//         return *max_element(prefix.begin(), prefix.end());
+//     }
+// };
 
 
 // // BRUTE FORCE // 
