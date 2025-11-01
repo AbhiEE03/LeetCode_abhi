@@ -10,7 +10,7 @@ class Solution {
 public:
     void deleteNode(ListNode* node) {
         ListNode *prev = NULL;
-        while(node->next!=NULL && node!=NULL){
+        while( node!=NULL && node->next!=NULL ){
             node->val= node->next->val; // Assign next value to the current node
             prev = node; // mainataining a prev node
 
