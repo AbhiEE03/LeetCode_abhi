@@ -1,3 +1,21 @@
+// //// Optimal APPROACH //// //
+class Solution {
+public:
+    int countPartitions(vector<int>& nums) {
+        int partition = 0;
+        int n= nums.size(), sum=0; 
+        for(int i=0; i<n; i++){
+            sum+=nums[i];
+        }
+        if(sum % 2 == 0) partition=n-1;
+        return partition;
+    }
+};
+
+
+
+// //// Better APPROACH //// //
+/*
 class Solution {
 public:
     int countPartitions(vector<int>& nums) {
@@ -15,7 +33,7 @@ public:
         return partition;
     }
 };
-
+*/
 
 
 
