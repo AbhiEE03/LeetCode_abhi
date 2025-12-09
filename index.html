@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>JEE Mains Presentation - Mizoram</title>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.min.css"
+		/>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/theme/white.min.css"
+			id="theme"
+		/>
+
+		<style>
+			/* --- Custom Styling to Match PDF Design --- */
+
+			:root {
+				--primary-blue: #2563eb;
+				--primary-purple: #9333ea;
+				--primary-gold: #f59e0b;
+				--primary-red: #dc2626;
+				--dark-text: #1f2937;
+				--light-bg: #f3f4f6;
+			}
+
+			.reveal {
+				color: var(--dark-text);
+				font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+			}
+
+			/* --- BACKGROUND GRADIENT CHANGE --- */
+			/* This overrides the default white theme with the NIT MZ Yellow-Green Gradient */
+			.reveal-viewport {
+				background: rgb(255, 215, 0);
+				background: linear-gradient(
+					180deg,
+					rgba(255, 215, 0, 1) 0%,
+					rgba(50, 205, 50, 1) 100%
+				);
+				background-attachment: fixed; /* Ensures gradient stays static while slides move */
+			}
+
+			/* Headers - Added a slight text shadow for better readability on the gradient */
+			.reveal h1,
+			.reveal h2,
+			.reveal h3,
+			.reveal h4 {
+				text-transform: none;
+				font-weight: 700;
+				text-shadow: 0px 2px 4px rgba(255, 255, 255, 0.4);
+			}
+
+			.reveal h1 {
+				color: var(--primary-blue);
+				font-size: 2.5em;
+			}
+			.reveal h2 {
+				color: var(--primary-purple);
+			}
+			.reveal h3 {
+				color: var(--primary-red);
+			} /* Changed to Red for better contrast on yellow/green */
+
+			/* --- FIXED LOGO STYLING --- */
+			.logo-overlay {
+				position: absolute;
+				top: 25px;
+				right: 25px;
+				width: 100px;
+				z-index: 1000;
+				filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.2));
+				pointer-events: none;
+			}
+
+			/* --- INTERACTIVE CARD STYLING --- */
+			/* Kept white to ensure text is readable against the gradient background */
+			.card {
+				background: rgba(255, 255, 255, 0.95); /* Slight transparency */
+				border-radius: 12px;
+				padding: 20px;
+				box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+				margin: 10px 0;
+				border-left: 5px solid var(--primary-blue);
+				text-align: left;
+				transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+				cursor: pointer;
+			}
+
+			.card:hover {
+				transform: translateY(-8px);
+				box-shadow: 0 14px 28px rgba(0, 0, 0, 0.2),
+					0 10px 10px rgba(0, 0, 0, 0.2);
+				background-color: #ffffff;
+			}
+
+			.card:active {
+				transform: scale(0.98);
+				box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+			}
+
+			/* Specific Color Variations */
+			.card.purple {
+				border-left-color: var(--primary-purple);
+			}
+			.card.purple:hover {
+				border-left: 8px solid var(--primary-purple);
+			}
+
+			.card.gold {
+				border-left-color: var(--primary-gold);
+			}
+			.card.gold:hover {
+				border-left: 8px solid var(--primary-gold);
+			}
+
+			.card.red {
+				border-left-color: var(--primary-red);
+			}
+			.card.red:hover {
+				border-left: 8px solid var(--primary-red);
+			}
+
+			/* Tables */
+			table.custom-table {
+				width: 100%;
+				border-collapse: collapse;
+				font-size: 0.6em;
+				margin-top: 20px;
+				background: white; /* Table needs white background for readability */
+				border-radius: 8px;
+				overflow: hidden;
+				box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+			}
+			table.custom-table th {
+				background-color: var(--primary-blue);
+				color: white;
+				padding: 10px;
+			}
+			table.custom-table td {
+				border: 1px solid #ddd;
+				padding: 8px;
+				transition: background-color 0.2s;
+			}
+			table.custom-table tr:hover td {
+				background-color: #e0f2fe;
+			}
+
+			/* Lists */
+			ul.custom-list {
+				list-style-type: none;
+				padding: 0;
+			}
+			ul.custom-list li {
+				padding: 10px;
+				margin-bottom: 5px;
+				border-bottom: 1px solid #eee;
+			}
+
+			/* Timeline / Flex layouts */
+			.flex-container {
+				display: flex;
+				justify-content: space-between;
+				gap: 15px;
+			}
+			.flex-item {
+				flex: 1;
+				font-size: 0.7em;
+			}
+
+			/* Highlight Boxes */
+			.highlight-box {
+				background-color: #eff6ff;
+				border: 2px dashed var(--primary-blue);
+				padding: 15px;
+				border-radius: 8px;
+				margin-top: 15px;
+				transition: transform 0.3s;
+				/* Added white bg ensures box stands out on gradient */
+				background: white;
+			}
+			.highlight-box:hover {
+				transform: scale(1.02);
+				background-color: #f0f9ff;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="reveal">
+			<img
+				src="50_Days_Badge.png"
+				class="logo-overlay"
+				alt="NIT Mizoram Logo"
+			/>
+
+			<div class="slides">
+				<section>
+					<h4 style="color: var(--primary-red)">01 | PART ONE</h4>
+					<h1>What is JEE Main?</h1>
+					<div class="flex-container">
+						<div class="card purple">
+							<h4>Objective</h4>
+							<p style="font-size: 0.6em">
+								Primary gateway to NITs, IIITs, and GFTIs. Also serves as the
+								qualifying exam for JEE Advanced (IITs).
+							</p>
+						</div>
+					</div>
+					<div class="flex-container">
+						<div class="card">
+							<h4>Key Details</h4>
+							<ul style="font-size: 0.5em">
+								<li><strong>Conducted by:</strong> NTA</li>
+								<li><strong>Mode:</strong> CBT (Online)</li>
+								<li><strong>Frequency:</strong> Twice a Year (Jan/Apr)</li>
+								<li><strong>Languages:</strong> 13 Regional Languages</li>
+							</ul>
+						</div>
+						<div class="card gold">
+							<h4>Papers</h4>
+							<ul style="font-size: 0.5em">
+								<li>Paper 1: B.E. / B.Tech</li>
+								<li>Paper 2A: B.Arch</li>
+								<li>Paper 2B: B.Planning</li>
+							</ul>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<h2>JEE Main at a Glance</h2>
+					<div class="card purple">
+						<h4>1. National Level Exam</h4>
+						<p style="font-size: 0.6em">
+							Standardized CBT for B.E./B.Tech admissions across India.
+						</p>
+					</div>
+					<div class="card gold">
+						<h4>2. Twice a Year</h4>
+						<p style="font-size: 0.6em">
+							Jan & April Sessions. <strong>Best of two scores</strong> is
+							considered.
+						</p>
+					</div>
+					<div class="card">
+						<h4>3. Gateway to Institutes</h4>
+						<p style="font-size: 0.6em">
+							Direct admission to 31 NITs (including
+							<strong>NIT Mizoram</strong>), 26 IIITs, and 33 GFTIs.
+						</p>
+					</div>
+				</section>
+
+				<section>
+					<h3>Eligibility Criteria (2025 Cycle)</h3>
+					<table class="custom-table">
+						<thead>
+							<tr>
+								<th>Criteria</th>
+								<th>Details & Requirements</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><strong>Age Limit</strong></td>
+								<td>
+									No upper age limit. Must meet Class 12 passing year criteria.
+								</td>
+							</tr>
+							<tr>
+								<td><strong>Attempts</strong></td>
+								<td>
+									3 consecutive years starting from the year you first appear
+									for Class 12.
+								</td>
+							</tr>
+							<tr>
+								<td><strong>Qualifying Exam</strong></td>
+								<td>Passed Class 12 in 2023, 2024 OR Appearing in 2025.</td>
+							</tr>
+							<tr>
+								<td><strong>Institute Admission</strong></td>
+								<td>
+									<strong>NITs/IIITs:</strong> Min 75% in Class 12 (65% for
+									SC/ST).<br />
+									<em>OR Top 20 Percentile of Board (MBSE).</em>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</section>
+
+				<section>
+					<h2>Exam Dates & Schedule (Tentative)</h2>
+					<div class="flex-container" style="margin-top: 30px">
+						<div class="card" style="background: #e0f2fe">
+							<h5 style="color: var(--primary-blue)">Jan 21-30</h5>
+							<p style="font-size: 0.5em">Session 1 Exam</p>
+						</div>
+						<div class="card" style="background: #f3e8ff">
+							<h5 style="color: var(--primary-purple)">Feb 12</h5>
+							<p style="font-size: 0.5em">S1 Results</p>
+						</div>
+						<div class="card" style="background: #e0f2fe">
+							<h5 style="color: var(--primary-blue)">Apr 2-9</h5>
+							<p style="font-size: 0.5em">Session 2 Exam</p>
+						</div>
+						<div class="card" style="background: #fef3c7">
+							<h5 style="color: var(--primary-gold)">June</h5>
+							<p style="font-size: 0.5em">JoSAA Counseling</p>
+						</div>
+					</div>
+					<p style="font-size: 0.4em; margin-top: 20px">
+						*Dates are projected based on 2025 cycle.
+					</p>
+				</section>
+
+				<section>
+					<h3>Number of Attempts Policy</h3>
+					<div class="card gold">
+						<h4>Two Sessions Annually</h4>
+						<p style="font-size: 0.6em">
+							Flexibility to appear for one or both (Jan & April).
+						</p>
+					</div>
+					<div class="card purple">
+						<h4>Best Score Counts</h4>
+						<p style="font-size: 0.6em">
+							NTA considers the highest percentile of the two for ranking.
+						</p>
+					</div>
+					<div class="card red">
+						<h4>3 Consecutive Years</h4>
+						<p style="font-size: 0.6em">
+							Total 6 opportunities (2 sessions x 3 years) to clear the exam.
+						</p>
+					</div>
+				</section>
+
+				<section>
+					<h4 style="color: var(--primary-red)">02 | PART TWO</h4>
+					<h1>Preparation Strategy</h1>
+					<div class="flex-container">
+						<div class="flex-item">
+							<div class="card">
+								<h5>Resources</h5>
+								<ul style="font-size: 0.6em">
+									<li>Online Platforms (PW, Unacademy)</li>
+									<li>NCERT Textbooks (The Bible)</li>
+									<li>PYQs (Previous Year Qs)</li>
+								</ul>
+							</div>
+						</div>
+						<div class="flex-item">
+							<div class="card purple">
+								<h5>Strategy Pillars</h5>
+								<ul style="font-size: 0.6em">
+									<li>Structured Timetable</li>
+									<li>Concept Clarity</li>
+									<li>Mock Testing</li>
+									<li>Regular Revision</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<h3>Syllabus Overview</h3>
+					<p style="font-size: 0.6em">Equal Weightage: 100 Marks per subject</p>
+					<div class="flex-container" style="font-size: 0.5em">
+						<div class="card" style="border-left-color: #3b82f6">
+							<strong>Mathematics</strong>
+							<ul>
+								<li>Calculus</li>
+								<li>Algebra</li>
+								<li>Vectors & 3D</li>
+								<li>Probability</li>
+							</ul>
+						</div>
+						<div class="card" style="border-left-color: #a855f7">
+							<strong>Physics</strong>
+							<ul>
+								<li>Mechanics</li>
+								<li>Electrostatics</li>
+								<li>Optics</li>
+								<li>Modern Physics</li>
+							</ul>
+						</div>
+						<div class="card" style="border-left-color: #f59e0b">
+							<strong>Chemistry</strong>
+							<ul>
+								<li>Physical (Thermo, Solutions)</li>
+								<li>Inorganic (Periodic Table)</li>
+								<li>Organic (Hydrocarbons)</li>
+							</ul>
+						</div>
+					</div>
+				</section>
+
+				<section>
+					<h3>Exam Pattern (Paper 1)</h3>
+					<table class="custom-table">
+						<thead>
+							<tr>
+								<th>Component</th>
+								<th>Details</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td><strong>Structure</strong></td>
+								<td>75 Questions | 300 Marks | 3 Hours</td>
+							</tr>
+							<tr>
+								<td><strong>Sections</strong></td>
+								<td>
+									<strong>Sec A:</strong> 20 MCQs (Compulsory)<br />
+									<strong>Sec B:</strong> 10 Numericals (Do any 5)
+								</td>
+							</tr>
+							<tr>
+								<td><strong>Marking</strong></td>
+								<td>
+									<span style="color: green">+4 for Correct</span><br />
+									<span style="color: red">-1 for Incorrect</span><br />
+									0 for Unattempted
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</section>
+
+				<section>
+					<h3>High Yield Weightage</h3>
+					<div
+						style="
+							display: flex;
+							flex-direction: column;
+							gap: 10px;
+							font-size: 0.7em;
+						"
+					>
+						<div
+							class="card"
+							style="
+								background: #ddd;
+								width: 100%;
+								border-radius: 5px;
+								padding: 0;
+								border: none;
+								box-shadow: none;
+							"
+						>
+							<div
+								style="
+									background: var(--primary-purple);
+									width: 16%;
+									color: white;
+									padding: 5px;
+									border-radius: 5px;
+								"
+							>
+								Mechanics (16%)
+							</div>
+						</div>
+						<div
+							class="card"
+							style="
+								background: #ddd;
+								width: 100%;
+								border-radius: 5px;
+								padding: 0;
+								border: none;
+								box-shadow: none;
+							"
+						>
+							<div
+								style="
+									background: var(--primary-blue);
+									width: 15%;
+									color: white;
+									padding: 5px;
+									border-radius: 5px;
+								"
+							>
+								Calculus (15%)
+							</div>
+						</div>
+						<div
+							class="card"
+							style="
+								background: #ddd;
+								width: 100%;
+								border-radius: 5px;
+								padding: 0;
+								border: none;
+								box-shadow: none;
+							"
+						>
+							<div
+								style="
+									background: var(--primary-gold);
+									width: 12%;
+									color: white;
+									padding: 5px;
+									border-radius: 5px;
+								"
+							>
+								Physical Chem (12%)
+							</div>
+						</div>
+						<div
+							class="card"
+							style="
+								background: #ddd;
+								width: 100%;
+								border-radius: 5px;
+								padding: 0;
+								border: none;
+								box-shadow: none;
+							"
+						>
+							<div
+								style="
+									background: var(--primary-gold);
+									width: 12%;
+									color: white;
+									padding: 5px;
+									border-radius: 5px;
+								"
+							>
+								Organic Chem (12%)
+							</div>
+						</div>
+					</div>
+					<div class="highlight-box" style="margin-top: 20px; font-size: 0.5em">
+						<strong>MUST DO:</strong> Calculus, Mechanics, Modern Physics,
+						Thermodynamics.
+					</div>
+				</section>
+
+				<section>
+					<h2>Online Resources</h2>
+					<div class="flex-container">
+						<div class="card purple">
+							<h5>Physics Wallah (PW)</h5>
+							<p style="font-size: 0.5em">
+								Affordable batches (Arjuna/Lakshya) with DPPs and doubt support.
+							</p>
+						</div>
+						<div class="card">
+							<h5>YouTube (Free)</h5>
+							<p style="font-size: 0.5em">
+								Mohit Tyagi, Unacademy JEE, Khan Academy.
+							</p>
+						</div>
+					</div>
+					<div class="card gold">
+						<h5>NTA Abhyas App</h5>
+						<p style="font-size: 0.5em">
+							Official app for daily CBT mock practice.
+						</p>
+					</div>
+				</section>
+
+				<section>
+					<h3>Offline Resources: Aizawl</h3>
+					<div class="card">
+						<h5>Books (The Foundation)</h5>
+						<ul style="font-size: 0.5em">
+							<li><strong>Physics:</strong> H.C. Verma (Vol 1 & 2)</li>
+							<li><strong>Maths:</strong> R.D. Sharma / Cengage</li>
+							<li><strong>Chemistry:</strong> NCERT is the Bible.</li>
+						</ul>
+					</div>
+					<div class="card purple">
+						<h5>Local Strategy</h5>
+						<ul style="font-size: 0.5em">
+							<li>Join Aizawl-based study groups.</li>
+							<li>Use State Central Library.</li>
+							<li>Hybrid Model: Online lectures + Local tuition for doubts.</li>
+						</ul>
+					</div>
+				</section>
+
+				<section>
+					<h2>Pro Tips & Strategy</h2>
+					<div class="flex-container">
+						<div class="card gold">
+							<h5>Master NCERT</h5>
+							<p style="font-size: 0.5em">
+								Especially for Chemistry. Build base before reference books.
+							</p>
+						</div>
+						<div class="card red">
+							<h5>Weekly Mock Tests</h5>
+							<p style="font-size: 0.5em">
+								Attempt 1 full CBT mock/week. Analyze errors strictly.
+							</p>
+						</div>
+					</div>
+					<div class="card">
+						<h5>Board & JEE Synergy</h5>
+						<p style="font-size: 0.6em">
+							Align Mizoram Board studies with JEE topics to save time.
+						</p>
+					</div>
+					<p style="color: var(--primary-blue); font-weight: bold">
+						"Consistency beats intensity."
+					</p>
+				</section>
+
+				<section>
+					<h4 style="color: var(--primary-red)">03 | PART THREE</h4>
+					<h1>Selection Process</h1>
+					<div class="card purple">
+						<h5>Percentile vs. Rank</h5>
+						<p style="font-size: 0.6em">
+							Understanding NTA Score normalization.
+						</p>
+					</div>
+					<div class="card gold">
+						<h5>JoSAA Counseling</h5>
+						<p style="font-size: 0.6em">
+							Registration -> Choice Filling -> Seat Allocation.
+						</p>
+					</div>
+					<div class="card red">
+						<h5>Home State Quota</h5>
+						<p style="font-size: 0.6em">
+							Leveraging the 50% reservation in NIT Mizoram.
+						</p>
+					</div>
+				</section>
+
+				<section>
+					<h3>Percentile vs Rank</h3>
+					<p style="font-size: 0.6em; text-align: left">
+						Percentile is relative position, not percentage marks.
+					</p>
+
+					<table class="custom-table" style="font-size: 0.7em">
+						<tr>
+							<th>Percentile</th>
+							<th>Approx AIR (12L Students)</th>
+							<th>Impact</th>
+						</tr>
+						<tr>
+							<td>99.0%ile</td>
+							<td>~12,000</td>
+							<td style="color: green">Top NITs</td>
+						</tr>
+						<tr>
+							<td>95.0%ile</td>
+							<td>~60,000</td>
+							<td style="color: blue">Good NITs</td>
+						</tr>
+						<tr>
+							<td>90.0%ile</td>
+							<td>~1,20,000</td>
+							<td style="color: orange">NIT Mizoram (OS)</td>
+						</tr>
+					</table>
+					<div class="highlight-box">
+						Formula: Rank = (100 - Percentile) × 12,000
+					</div>
+				</section>
+
+				<section>
+					<h3>JoSAA Counseling Steps</h3>
+					<div
+						style="
+							display: grid;
+							grid-template-columns: 1fr 1fr;
+							gap: 10px;
+							font-size: 0.6em;
+						"
+					>
+						<div class="card">1. Registration</div>
+						<div class="card">2. Choice Filling (Crucial)</div>
+						<div class="card">3. Mock & Lock</div>
+						<div class="card">4. Seat Allotment</div>
+						<div class="card">5. Willingness (Freeze/Float)</div>
+						<div class="card">6. Reporting & Fees</div>
+					</div>
+				</section>
+
+				<section>
+					<h3>Reservation Breakdown</h3>
+					<div style="display: flex; justify-content: center; gap: 20px">
+						<div class="card" style="flex: 1">
+							<h5>Seat Pools</h5>
+							<ul style="font-size: 0.6em">
+								<li><strong>50%</strong> Home State (Mizoram)</li>
+								<li><strong>50%</strong> Other State</li>
+							</ul>
+						</div>
+						<div class="card purple" style="flex: 1">
+							<h5>Categories</h5>
+							<ul style="font-size: 0.6em">
+								<li>ST: 7.5%</li>
+								<li>SC: 15%</li>
+								<li>OBC: 27%</li>
+								<li>EWS: 10%</li>
+							</ul>
+						</div>
+					</div>
+					<p style="font-size: 0.5em; margin-top: 20px">
+						Note: Female Supernumerary seats exist to ensure 20% female
+						enrollment.
+					</p>
+				</section>
+
+				<section>
+					<h2 style="color: var(--primary-red)">The Mizoram Advantage</h2>
+					<div class="card gold">
+						<h4>50% Home State Quota</h4>
+						<p style="font-size: 0.6em">
+							NIT Mizoram reserves half its seats for students who passed Class
+							12 in Mizoram.
+						</p>
+					</div>
+					<div class="card purple">
+						<h4>The Strategy</h4>
+						<p style="font-size: 0.6em">
+							You are not competing with All-India students. You are only
+							competing with the local pool.
+						</p>
+					</div>
+					<div class="highlight-box">
+						"Even with a low score, the HS quota makes admission viable."
+					</div>
+				</section>
+
+				<section>
+					<h3>NIT Mizoram Cutoffs (General)</h3>
+					<p style="font-size: 0.5em">
+						Comparison of Closing Ranks (2025 Trends)
+					</p>
+					<table class="custom-table" style="font-size: 0.55em">
+						<thead>
+							<tr>
+								<th>Branch</th>
+								<th style="background: #dc2626">All India Rank (OS)</th>
+								<th style="background: #16a34a">Home State Rank (HS)</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Computer Science</td>
+								<td>~55,951</td>
+								<td><strong>~7,25,302</strong></td>
+							</tr>
+							<tr>
+								<td>Electronics (ECE)</td>
+								<td>~74,136</td>
+								<td><strong>~9,00,000+</strong></td>
+							</tr>
+							<tr>
+								<td>Civil Engg</td>
+								<td>~1,08,842</td>
+								<td><strong>~13,00,000+</strong></td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="card gold" style="margin-top: 20px">
+						<h5>Conclusion</h5>
+						<p style="font-size: 0.6em">
+							The HS quota requires a rank almost
+							<strong>13x lower</strong> than All India quota.
+						</p>
+					</div>
+				</section>
+			</div>
+		</div>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.min.js"></script>
+		<script>
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				center: true,
+				hash: true,
+				transition: "slide", // none/fade/slide/convex/concave/zoom
+			});
+		</script>
+	</body>
+</html>
