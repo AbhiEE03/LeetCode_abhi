@@ -1,7 +1,7 @@
 class Solution {
 
 private:
-    bool dfs_prerequisite(int course, vector<int> adj[], vector<int> &visited, vector<int> &path_visited){
+    bool dfs_prerequisite(int course, vector<vector<int>> &adj, vector<int> &visited, vector<int> &path_visited){
         visited[course] = 1;
         path_visited[course] = 1;
 
@@ -21,7 +21,8 @@ public:
         vector<int> path_visited (numCourses, 0);
 
         // Creating an adjacency list
-        vector<int> adj[numCourses];
+        // vector<int> adj[numCourses]; For CP but not standard C++
+        vector<vector<int>> adj(numCourses);
         for(auto &it:prerequisites){
             int c = it[0];
             int p = it[1];
