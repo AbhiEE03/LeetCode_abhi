@@ -4,13 +4,12 @@ public:
         int n = strs.size();
         int c = strs[0].size();
 
-        int deleted=0,marked;
-        for(int i=1; i<n; i++){
-            for(int j=0; j<c; j++){
-                if(j != marked && (strs[i][j] < strs[i-1][j]) && deleted < n){
+        int deleted=0;
+        for(int col = 0; col<c; col++){
+            for(int row=1; row<n; row++){
+                if(strs[row][col] < strs[row-1][col]){
                     deleted++;
-                    marked = j;
-
+                    break;
                 }
             }
         }
