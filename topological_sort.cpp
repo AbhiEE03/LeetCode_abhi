@@ -2,14 +2,14 @@
 using namespace std;
 
 // Using Plain DFS //
+// Advisable because maintaining a path visited array is unnecessary
 class Solution
 {
 private:
   void dfs_topo(int node, vector<int> adj[], vector<int> &visited, vector<int> &topological_order)
   {
     visited[node] = 1;
-    // path_visited[node]=1;
-
+    
     for (auto &it : adj[node])
     {
       if (!visited[it])
@@ -19,8 +19,6 @@ private:
     }
 
     topological_order.push_back(node);
-
-    // path_visited[node] = 0;
   }
 
 public:
