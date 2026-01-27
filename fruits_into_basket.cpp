@@ -28,11 +28,9 @@ public:
           l++;
         }
       }
-      else
-      {
-        maxlen = max(maxlen, r - l + 1);
-        r++;
-      }
+
+      maxlen = max(maxlen, r - l + 1);
+      r++;
     }
     return maxlen;
   }
@@ -41,8 +39,16 @@ public:
 // OPTIMAL
 // Instead of reducing l until we get a valid subarray in one step we do
 // one decrement at a time.
-// In this way we avoid travelling the whole fruits array using l pointer and
-// our TC remains near O(N)
+// In this way we avoid incrementing l multiple times in one go and reduce the
+//  work per iteration.
+
+// Comaprison between both //
+// The TC = O(2N) = O(N) in both the cases the only difference is in the way
+// we are shrinking the window one by one in second case which can be useful
+// when it's costly to shrink, the window isn't valid all the time in 2nd case
+//  as it might have 3 types of fruits in some iterations
+// We can prefer the 1st solution when shrinking isn't costly
+// Prefer 2nd when shrinking is costly and we want uniform per iteratioin cost
 class Solution
 {
 public:
