@@ -14,12 +14,15 @@ public:
         if(sum % 2 != 0) return false;
 
         int S1 = sum/2;
+        // Better than declaring a fixed matrix
         vector<vector<bool>> dp(n + 1, vector<bool>(S1 + 1, false));
 
+        // 1st col is always TRUE
         for (int i = 0; i <= n; i++) {
             dp[i][0] = true;
         }
 
+        // Subset Sum Problem
         for(int i=1; i<n+1; i++){
             for( int j=1; j<S1+1; j++){
 
