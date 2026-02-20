@@ -17,7 +17,7 @@ public:
             }
         }
 
-        //  Totsl no. of insetions+ deletions
+        //  Total no. of insetions+ deletions
          return (n+m) - 2*dp[n][m];
     }
 };
