@@ -4,7 +4,8 @@ public:
         int m = obstacleGrid.size();
         int n = obstacleGrid[0].size();
         vector<vector<long long>>dp(m, vector<long long>(n, 1));
-    
+
+        // If there is an obstacle then assign last cell zero ow 1
         if(obstacleGrid[m-1][n-1] == 1) 
             dp[m-1][n-1] = 0;
         else
@@ -20,10 +21,12 @@ public:
                 if(obstacleGrid[i][j] == 1)
                     dp[i][j] = 0;
                 else{
+                    // We can either go right or left at each step //
+                    // Right movement isn't possible in last col
                     long long ans1 = i<m-1 ? dp[i+1][j] : 0;
+                    // Downward movement isn't possible in the last row
                     long long ans2 = j<n-1 ? dp[i][j+1] : 0;
                     dp[i][j] = (ans1 + ans2);
-                    // We can either go right or left at each step
 
                 }
             }
