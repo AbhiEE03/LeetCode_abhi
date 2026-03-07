@@ -29,55 +29,55 @@
 
 
 
-//// Space Optimized //// //
-class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-        // Initialisation
-        // 2 vectors for storing the next_state and temp_state
-        vector<int> next_state(2, 0), curr_state(2,0);
-
-        // No stocks = No profit
-        // next_state[0] = next_state[1] = 0; (Not required)
-
-        for(int i = n-1; i >= 0; i--){
-            // buying curr + selling next, didn't buy curr + buying the next
-            curr_state[1] = max(-prices[i] + next_state[0], 0 + next_state[1]);
-
-            // selling curr + buying next, didn't sell curr + selling the next
-            curr_state[0] = max(prices[i] + next_state[1], 0 + next_state[0]);
-            // store the temp as next state for coming iteration
-            next_state = curr_state;
-        }
-
-    // Return the last state
-    return next_state[1];
-    }
-};
-
-
-
-// // //// Using 4 variables //// //
+// //// Space Optimized //// //
 // class Solution {
 // public:
 //     int maxProfit(vector<int>& prices) {
 //         int n = prices.size();
+//         // Initialisation
+//         // 2 vectors for storing the next_state and temp_state
+//         vector<int> next_state(2, 0), curr_state(2,0);
 
-//         // Initialise the variables
-//         int curr_buy, curr_sell, next_buy, next_sell;
-
-//         next_buy = next_sell = 0;
+//         // No stocks = No profit
+//         // next_state[0] = next_state[1] = 0; (Not required)
 
 //         for(int i = n-1; i >= 0; i--){
-                
-//             curr_buy = max(-prices[i] + next_sell, next_buy);
-//             curr_sell = max(prices[i] + next_buy, next_sell);
-                
-//             next_buy = curr_buy;
-//             next_sell = curr_sell;
+//             // buying curr + selling next, didn't buy curr + buying the next
+//             curr_state[1] = max(-prices[i] + next_state[0], 0 + next_state[1]);
+
+//             // selling curr + buying next, didn't sell curr + selling the next
+//             curr_state[0] = max(prices[i] + next_state[1], 0 + next_state[0]);
+//             // store the temp as next state for coming iteration
+//             next_state = curr_state;
 //         }
 
-//         return next_buy;
+//     // Return the last state
+//     return next_state[1];
 //     }
 // };
+
+
+
+// //// Using 4 variables //// //
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int n = prices.size();
+
+        // Initialise the variables
+        int curr_buy, curr_sell, next_buy, next_sell;
+
+        next_buy = next_sell = 0;
+
+        for(int i = n-1; i >= 0; i--){
+                
+            curr_buy = max(-prices[i] + next_sell, next_buy);
+            curr_sell = max(prices[i] + next_buy, next_sell);
+                
+            next_buy = curr_buy;
+            next_sell = curr_sell;
+        }
+
+        return next_buy;
+    }
+};
