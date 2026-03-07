@@ -4,7 +4,7 @@
 //     int maxProfit(vector<int>& prices) {
 //         int n = prices.size();
 //         // Initialisation
-//         // size[n+12][2] with 0 profit bec we are accesing i+2 after selling
+//         // size[n+2][2] with 0 profit bec we are accesing i+2 after selling
 //         vector<vector<int>> dp(n + 2, vector<int>(2, 0));
 
 //         // Base Case
