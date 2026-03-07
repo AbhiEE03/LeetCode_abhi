@@ -1,16 +1,34 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-    int buy = -prices[0];
-    int sell = 0;
+        int n = prices.size();
+        // Initialisation
+        // 2 vectors for storing the next_state and temp_state
+        vector<int> next_state(2, 0), curr(2,0);
 
-    for(int i = 1; i < prices.size(); i++){
-        buy = max(buy, sell - prices[i]);
-        sell = max(sell, buy + prices[i]);
+        // No stocks = No profit
+        next_state[0] = next_state[1] = 0;
+
+        for(int i = n-1; i >= 0; i--){
+            for(int buy = 0; buy <= 1; buy++){
+                int profit = 0;
+                if(buy){
+                    // profit = buy curr + sell next, buy next
+                    profit = max(-prices[i] + next_state[0], next_state[1]);
+                }else{
+                    // profit = sell curr + buy next, sell next
+                    profit = max(prices[i] + next_state[1], next_state[0]);
+                }
+                // Assign profit in the temp var
+                curr[buy] = profit;
+            }
+            // store the temp as next state for coming iteration
+            next_state = curr;
+        }
+
+    // Return the last state
+    return next_state[1];
     }
-
-    return sell;
-}
 };
 
 
