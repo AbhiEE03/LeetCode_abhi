@@ -1,37 +1,30 @@
 
 
 
-// //// Tabulation w/o space optimisation //// //
-// class Solution {
-// public:
-//     int maxProfit(vector<int>& prices) {
-//         int n = prices.size();
-//         // Initialisation
-//         // size[n+1][2] with 0 profit
-//         vector<vector<int>> dp(n+1, vector<int>(2, 0));
+//// Tabulation w/o space optimisation //// //
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int n = prices.size();
+        // Initialisation
+        // size[n+1][2] with 0 profit
+        vector<vector<int>> dp(n+1, vector<int>(2, 0));
 
-//         // Base Case
-//         // After reaching the end, we can't buy or sell anything
-//         dp[n][0] = dp[n][1] = 0; 
+        // Base Case
+        // After reaching the end, we can't buy or sell anything
+        // dp[n][0] = dp[n][1] = 0; (Not required)
 
-//         for(int i = n-1; i>=0; i--){
-//             for(int buy=0; buy<=1; buy++){
-//                 int profit = 0;
-//                 if(buy){
-//                     // buying curr + sold prev, didn't buy curr + bought the prev
-//                     profit = max(-prices[i] + dp[i+1][0], 0 + dp[i+1][1]);
-//                 }else{
-//                     // selling curr + bought prev, didn't sell curr + sold the prev
-//                     profit = max(prices[i] + dp[i+1][1], 0 + dp[i+1][0]);
-//                 }
-//                 // Assign the profit to the current dp state
-//                 dp[i][buy] = profit;
-//             }
-//         }
-//         // return the last dpp state
-//         return dp[0][1];
-//     }
+        for(int i = n-1; i>=0; i--){
+            // buying curr + sold next, didn't buy curr + buying the next
+            dp[i][1] = max(-prices[i] + dp[i + 1][0], 0 + dp[i + 1][1]);
 
+            // selling curr + buying next, didn't sell curr + selling the next
+            dp[i][0] = max(prices[i] + dp[i + 1][1], 0 + dp[i + 1][0]);
+        }
+        // return the last dp state
+        return dp[0][1];
+    }
+};
 
 
 
@@ -74,26 +67,26 @@
 
 
 
-// //// Using 4 variables //// //
-class Solution {
-public:
-    int maxProfit(vector<int>& prices) {
-        int n = prices.size();
+// // //// Using 4 variables //// //
+// class Solution {
+// public:
+//     int maxProfit(vector<int>& prices) {
+//         int n = prices.size();
 
-        // Initialise the variables
-        int curr_buy, curr_sell, next_buy, next_sell;
+//         // Initialise the variables
+//         int curr_buy, curr_sell, next_buy, next_sell;
 
-        next_buy = next_sell = 0;
+//         next_buy = next_sell = 0;
 
-        for(int i = n-1; i >= 0; i--){
+//         for(int i = n-1; i >= 0; i--){
                 
-            curr_buy = max(-prices[i] + next_sell, next_buy);
-            curr_sell = max(prices[i] + next_buy, next_sell);
+//             curr_buy = max(-prices[i] + next_sell, next_buy);
+//             curr_sell = max(prices[i] + next_buy, next_sell);
                 
-            next_buy = curr_buy;
-            next_sell = curr_sell;
-        }
+//             next_buy = curr_buy;
+//             next_sell = curr_sell;
+//         }
 
-        return next_buy;
-    }
-};
+//         return next_buy;
+//     }
+// };
