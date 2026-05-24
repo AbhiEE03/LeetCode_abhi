@@ -31,4 +31,12 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0008-string-to-integer-atoi/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0050-powx-n/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
