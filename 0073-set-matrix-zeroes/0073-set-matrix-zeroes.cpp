@@ -1,52 +1,52 @@
-// // //// BRUTE //// //
+// // // //// BRUTE //// //
 
-// class Solution {
-// public:
+// // class Solution {
+// // public:
 
-//     // Assigns 'a' (Any value other than the range of matrix elements) to the entire row
-//     void rowZero(int i, vector<vector<int>>& matrix, int r, int c){
-//         for(int j=0; j<c; j++){
-//             if(matrix[i][j]!=0)
-//                 matrix[i][j]='a';
-//         }
-//     }
+// //     // Assigns 'a' (Any value other than the range of matrix elements) to the entire row
+// //     void rowZero(int i, vector<vector<int>>& matrix, int r, int c){
+// //         for(int j=0; j<c; j++){
+// //             if(matrix[i][j]!=0)
+// //                 matrix[i][j]='a';
+// //         }
+// //     }
 
-//     // Assigns 'a' (Any value other than the range of matrix elements) to the entire col
-//     void colZero(int j, vector<vector<int>>& matrix, int r, int c){
-//         for(int i=0; i<r; i++){
-//             if(matrix[i][j]!=0)
-//                 matrix[i][j]='a';
-//         }
-//     }
+// //     // Assigns 'a' (Any value other than the range of matrix elements) to the entire col
+// //     void colZero(int j, vector<vector<int>>& matrix, int r, int c){
+// //         for(int i=0; i<r; i++){
+// //             if(matrix[i][j]!=0)
+// //                 matrix[i][j]='a';
+// //         }
+// //     }
 
-//     void setZeroes(vector<vector<int>>& matrix) {
-//         int r = matrix.size(); // ROw Size
-//         int c = matrix[0].size(); // Col Size
+// //     void setZeroes(vector<vector<int>>& matrix) {
+// //         int r = matrix.size(); // ROw Size
+// //         int c = matrix[0].size(); // Col Size
 
 
-//         // Checking which positions have ZERO from the beginning
-//         for(int i = 0; i<r; i++){
-//             for(int j =0 ; j<c; j++){
-//                 if(matrix[i][j] == 0){
-//                     rowZero(i, matrix, r, c);
-//                     colZero(j, matrix, r, c);
-//                 }
-//             }
-//         }
+// //         // Checking which positions have ZERO from the beginning
+// //         for(int i = 0; i<r; i++){
+// //             for(int j =0 ; j<c; j++){
+// //                 if(matrix[i][j] == 0){
+// //                     rowZero(i, matrix, r, c);
+// //                     colZero(j, matrix, r, c);
+// //                 }
+// //             }
+// //         }
 
-//         // Replace all the 'a' with ZERO which will give us the final matrix
-//         for(int i = 0; i<r; i++){
-//             for(int j =0 ; j<c; j++){
-//                 if(matrix[i][j] == 'a'){
-//                     matrix[i][j] = 0;
-//                 }
-//             }
-//         }
+// //         // Replace all the 'a' with ZERO which will give us the final matrix
+// //         for(int i = 0; i<r; i++){
+// //             for(int j =0 ; j<c; j++){
+// //                 if(matrix[i][j] == 'a'){
+// //                     matrix[i][j] = 0;
+// //                 }
+// //             }
+// //         }
 
-//     }
+// //     }
 
     
-// };
+// // };
 
 
 // //// Better //// //
@@ -85,3 +85,19 @@ public:
     }
 
 };
+
+// TC = O(2*m*n)
+// SC = O(m) + O(n)
+
+
+
+
+// // //// Optimal //// //
+
+// // I'll do the optimal part later
+// class Solution {
+// public:
+//     void setZeroes(vector<vector<int>>& matrix) {
+        
+//     }
+// };
