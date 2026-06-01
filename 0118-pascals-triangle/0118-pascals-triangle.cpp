@@ -1,0 +1,31 @@
+class Solution {
+public:
+
+    vector<int> generateRow(int row){
+        long long ans = 1; 
+        vector<int> ansRow;
+        // First col will always be 1 
+        ansRow.push_back(1);
+        for(int col = 1; col < row; col++){
+            //  Formula derived using (n-1)C(r-1)
+            ans = ans * (row - col);
+            ans = ans/col;
+            ansRow.push_back(ans);
+        }
+
+        return ansRow;
+    }
+
+
+    vector<vector<int>> generate(int numRows) {
+
+        vector<vector<int>> ans;
+
+        // Start from 1 beacuse the col-0 will be 1
+        for(int i=1; i<=numRows; i++){
+            ans.push_back(generateRow(i));
+        }
+
+        return ans;
+    }
+};
