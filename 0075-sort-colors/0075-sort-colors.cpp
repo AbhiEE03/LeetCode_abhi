@@ -26,6 +26,14 @@
 
 // //// OPTIMAL //// //
 // Dutch National Flag Algo //
+/* It assumes the following:
+ - index: 0 to low-1 is having all zeors
+ - index: low to mid-1 is having all 1's
+ - index: mid to high is UNSORTED(Our Problem)
+ - index: high+1 to n-1 is having all 2's
+
+ e.g.: 0001111202110222(low=3, mid = 7, high = 12)
+*/
 
 
 class Solution {
