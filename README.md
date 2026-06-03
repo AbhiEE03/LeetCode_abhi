@@ -8,6 +8,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0075-sort-colors/) | Medium |
@@ -41,6 +42,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
