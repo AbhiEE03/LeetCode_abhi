@@ -19,6 +19,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0287-find-the-duplicate-number](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## Dynamic Programming
@@ -65,6 +66,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0031-next-permutation](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0088-merge-sorted-array/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +77,12 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0056-merge-intervals](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0088-merge-sorted-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
