@@ -22,6 +22,8 @@ public:
     }
 };
 
+
+// //// Suitable for cases when we only need to tell if target exists //// //
 // class Solution {
 // public:
 //     vector<int> twoSum(vector<int>& nums, int target) {
@@ -29,10 +31,10 @@ public:
 //         sort(nums.begin(), nums.end());
 //         while(l < r){
 //             int sum = nums[l] + nums[r];
-//             if(sum == target) return {l, r};
+//             if(sum == target) return true;
 //             else if(sum > target) r--;
 //             else l++;
 //         }
-//         return {l, r};
+//         return false;
 //     }
 // };
