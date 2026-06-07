@@ -21,6 +21,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
@@ -63,6 +64,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
 ## Matrix
@@ -111,4 +113,8 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0062-unique-paths/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
