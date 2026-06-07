@@ -7,6 +7,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0053-maximum-subarray/) | Medium |
@@ -59,6 +60,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
