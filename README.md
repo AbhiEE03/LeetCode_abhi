@@ -8,6 +8,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0001-two-sum/) | Easy |
+| [0018-4sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0053-maximum-subarray/) | Medium |
@@ -73,6 +74,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0088-merge-sorted-array/) | Easy |
@@ -85,6 +87,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0088-merge-sorted-array/) | Easy |
