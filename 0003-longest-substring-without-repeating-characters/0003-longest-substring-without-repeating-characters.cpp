@@ -13,7 +13,13 @@ public:
             mpp[s[r]]++;
             lsubstr = max(lsubstr, r-l+1);
             r++;
+        }
+        return lsubstr;
+    }
+};
 
+// This method would have worked as well but it's failing when we have
+// consecutive repeating characters
             // if(mpp[s[r]]>=1){
             //     // int len = mpp.size();
             //     lsubstr = max(lsubstr, r-l);
@@ -24,7 +30,3 @@ public:
             //     mpp[s[r]]++;
             //     r++;
             // }
-        }
-        return lsubstr;
-    }
-};
