@@ -27,6 +27,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0128-longest-consecutive-sequence](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +125,8 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
