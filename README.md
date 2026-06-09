@@ -60,6 +60,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0206-reverse-linked-list/) | Easy |
 ## Hash Table
@@ -134,6 +135,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
