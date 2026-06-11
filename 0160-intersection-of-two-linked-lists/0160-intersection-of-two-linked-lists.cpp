@@ -18,17 +18,17 @@
 class Solution {
 public:
 
-    ListNode* intersection(ListNode *n1, ListNode *n2, int d){
+    ListNode* intersection(ListNode *headA, ListNode *headB, int d){
         while(d){
             d--;
-            n2 = n2->next;
+            headB = headB->next;
         }
 
-        while(n2 != n1){
-            n1 = n1->next;
-            n2 = n2->next;    
+        while(headB != headA){
+            headA = headA->next;
+            headB = headB->next;    
         }
-        return n1;
+        return headA;
     }
 
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
@@ -46,7 +46,6 @@ public:
             n2 = n2->next;
         }
 
-        // int d = cntB-cntA
         if(cntA < cntB){
             return intersection(headA, headB, cntB-cntA);
         }else
