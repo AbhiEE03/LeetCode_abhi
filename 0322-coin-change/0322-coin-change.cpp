@@ -1,3 +1,4 @@
+// //// Dynamic Programming //// //
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
@@ -25,3 +26,56 @@ public:
         return dp[n][amount] >= amount+1 ? -1 : dp[n][amount];
     }
 };
+
+
+
+
+
+// //// Greedy Approach //// //
+// It fails because the larger coins can't always give the optimal answer
+
+// class Solution {
+// public:
+//     int coinChange(vector<int>& coins, int amount) {
+//         sort(coins.begin(), coins.end());
+
+//         int currVal = 0, count = 0, i = 0;
+//         if(amount == 0 ) return count;
+
+//         while(currVal < amount){
+//             if(i < coins.size()){
+//                 currVal += coins[i];
+//                  count++;
+//             }
+
+//             if(currVal == amount) return count;
+//             else if(currVal > amount){
+//                 currVal -= coins[i];
+//                 i++;
+//                 count--;
+//             }
+//         }
+
+//         return -1;
+//     }
+// };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
