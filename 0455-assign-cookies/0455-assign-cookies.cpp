@@ -16,6 +16,8 @@
 //     }
 // };
 
+
+// I wrote the exact same code during the revision through SDESheetChallenge
 class Solution {
 public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
