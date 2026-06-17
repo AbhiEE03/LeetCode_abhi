@@ -10,6 +10,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0001-two-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0031-next-permutation/) | Medium |
+| [0039-combination-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0039-combination-sum/) | Medium |
 | [0048-rotate-image](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0056-merge-intervals/) | Medium |
@@ -167,5 +168,6 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0039-combination-sum/) | Medium |
 | [0090-subsets-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
