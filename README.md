@@ -13,6 +13,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0039-combination-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -171,5 +172,6 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
