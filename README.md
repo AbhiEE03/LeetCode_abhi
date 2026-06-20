@@ -10,6 +10,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0001-two-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0048-rotate-image/) | Medium |
@@ -124,6 +125,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
