@@ -34,6 +34,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0287-find-the-duplicate-number](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0455-assign-cookies/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -88,6 +89,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +126,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0088-merge-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0455-assign-cookies/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -142,6 +146,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,4 +186,16 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0040-combination-sum-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0090-subsets-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
