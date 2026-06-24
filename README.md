@@ -198,4 +198,16 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
