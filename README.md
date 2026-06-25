@@ -64,6 +64,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0020-valid-parentheses](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0020-valid-parentheses/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +204,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0496-next-greater-element-i/) | Easy |
