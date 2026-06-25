@@ -36,6 +36,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0322-coin-change](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0455-assign-cookies/) | Easy |
+| [0496-next-greater-element-i](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -90,6 +91,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0496-next-greater-element-i](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,4 +216,8 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
