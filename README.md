@@ -215,12 +215,14 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0225-implement-stack-using-queues](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0496-next-greater-element-i/) | Easy |
+| [0901-online-stock-span](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0901-online-stock-span/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0460-lfu-cache](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0460-lfu-cache/) | Hard |
+| [0901-online-stock-span](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0496-next-greater-element-i/) | Easy |
+| [0901-online-stock-span](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0901-online-stock-span/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,4 +243,8 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0239-sliding-window-maximum/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
