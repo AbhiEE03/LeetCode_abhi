@@ -45,6 +45,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0118-pascals-triangle/) | Easy |
@@ -65,6 +66,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0020-valid-parentheses/) | Easy |
@@ -110,6 +112,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0018-4sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0031-next-permutation/) | Medium |
