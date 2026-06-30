@@ -1,3 +1,4 @@
+// TC: O(n*m), SC: O(1)
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
