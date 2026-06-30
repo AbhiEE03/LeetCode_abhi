@@ -73,6 +73,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0014-longest-common-prefix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0686-repeated-string-match](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0686-repeated-string-match/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,4 +262,8 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0686-repeated-string-match/) | Medium |
 <!---LeetCode Topics End-->
