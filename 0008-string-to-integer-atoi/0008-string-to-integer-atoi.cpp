@@ -9,9 +9,10 @@ public:
         // Forming the number
         num = num * 10 + (s[i] - '0');
 
-        if (sign * num < INT_MIN)
+        long long val = sign * num;
+        if (val < INT_MIN)
             return INT_MIN;
-        if (sign * num > INT_MAX)
+        if (val > INT_MAX)
             return INT_MAX;
 
         return converter(s, i + 1, num, sign);
@@ -25,7 +26,7 @@ public:
         // Determining the sign
         int sign = 1;
         if (i < s.size() && (s[i] == '+' || s[i] == '-')) {
-            s[i] == '-' ? sign = -1 : sign = 1;
+            sign  = (s[i] == '-') ? -1 : 1;
             i++;
         }
 
