@@ -9,6 +9,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -69,6 +70,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0005-longest-palindromic-substring](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Math
@@ -255,4 +257,8 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0901-online-stock-span/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
