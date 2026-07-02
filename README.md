@@ -73,6 +73,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0014-longest-common-prefix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0242-valid-anagram/) | Easy |
 | [0686-repeated-string-match](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0686-repeated-string-match/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0460-lfu-cache](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0496-next-greater-element-i/) | Easy |
@@ -143,6 +145,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0088-merge-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0455-assign-cookies/) | Easy |
 ## Binary Search
