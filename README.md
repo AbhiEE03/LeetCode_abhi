@@ -74,6 +74,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0020-valid-parentheses](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0038-count-and-say/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0165-compare-version-numbers](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0165-compare-version-numbers/) | Medium |
 | [0242-valid-anagram](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0242-valid-anagram/) | Easy |
 | [0686-repeated-string-match](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0686-repeated-string-match/) | Medium |
 ## Math
@@ -127,6 +128,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0141-linked-list-cycle](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0165-compare-version-numbers](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0165-compare-version-numbers/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0876-middle-of-the-linked-list/) | Easy |
