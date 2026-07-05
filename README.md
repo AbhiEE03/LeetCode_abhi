@@ -205,6 +205,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0322-coin-change/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,12 +278,15 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
