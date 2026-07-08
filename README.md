@@ -53,6 +53,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0322-coin-change/) | Medium |
@@ -277,16 +278,19 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
