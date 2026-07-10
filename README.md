@@ -22,6 +22,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0073-set-matrix-zeroes](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0090-subsets-ii/) | Medium |
@@ -167,6 +168,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Bit Manipulation
