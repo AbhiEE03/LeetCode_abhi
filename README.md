@@ -13,6 +13,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0018-4sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0048-rotate-image/) | Medium |
@@ -168,6 +169,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0162-find-peak-element/) | Medium |
