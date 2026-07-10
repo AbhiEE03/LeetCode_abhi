@@ -2,7 +2,7 @@ class Solution {
 public:
     int findMin(vector<int>& nums) {
         int ans=INT_MAX;
-        int idx=-1;
+        // int idx=-1;
         int l=0,r=nums.size()-1;
 
         while(l<=r){
