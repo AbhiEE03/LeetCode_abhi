@@ -34,6 +34,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -172,6 +173,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
