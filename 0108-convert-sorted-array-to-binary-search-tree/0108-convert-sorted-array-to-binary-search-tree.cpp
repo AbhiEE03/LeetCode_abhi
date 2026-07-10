@@ -18,7 +18,10 @@ public:
             return NULL;
 
         int mid = l + (r - l) / 2;
+        // Allocate the actual mem using new TreeNode() because the nums[mid] is an int
         TreeNode* temp = new TreeNode(nums[mid]);
+
+        // Recursively build the left and right subtree within their boundary
         temp->left = helper(nums, l, mid - 1);
         temp->right = helper(nums, mid + 1, r);
 
@@ -26,6 +29,7 @@ public:
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
         int n = nums.size();
+        // First call with extreme indices
         return helper(nums, 0, n - 1);
     }
 };
