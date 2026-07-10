@@ -59,12 +59,14 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0322-coin-change/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -79,6 +81,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0151-reverse-words-in-a-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0165-compare-version-numbers/) | Medium |
 | [0242-valid-anagram](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0242-valid-anagram/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0686-repeated-string-match/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -243,6 +246,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0225-implement-stack-using-queues](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0496-next-greater-element-i/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0901-online-stock-span](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0901-online-stock-span/) | Medium |
 ## Design
 | Problem Name | Difficulty |
