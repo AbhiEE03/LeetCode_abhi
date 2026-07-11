@@ -50,6 +50,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +261,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0496-next-greater-element-i](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0901-online-stock-span](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0901-online-stock-span/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +281,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0084-largest-rectangle-in-histogram](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0901-online-stock-span/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,6 +314,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,9 +335,11 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
