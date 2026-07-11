@@ -305,6 +305,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -319,6 +320,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -328,6 +330,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -342,6 +345,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
