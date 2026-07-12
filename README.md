@@ -313,6 +313,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -325,6 +326,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 ## Binary Tree
@@ -338,6 +340,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -347,6 +350,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
