@@ -15,7 +15,6 @@ public:
         TreeNode* curr = root;
         
         while (curr != NULL) {
-            // If there is a left child, it needs to be merged into the right side
             if (curr->left != NULL) {
                 
                 // Find the absolute rightmost node in the left subtree
