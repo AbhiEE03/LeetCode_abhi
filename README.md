@@ -39,6 +39,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0162-find-peak-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0200-number-of-islands](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -133,6 +134,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0048-rotate-image](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0733-flood-fill/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -205,6 +207,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0200-number-of-islands/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +238,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0133-clone-graph](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0322-coin-change/) | Medium |
@@ -339,6 +343,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0133-clone-graph](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
