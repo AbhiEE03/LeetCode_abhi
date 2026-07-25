@@ -10,7 +10,7 @@ public:
                 // Change the dp state only when we move out of last row and last col
                 if(i<m-1 && j<n-1)
                     dp[i][j] = dp[i+1][j] + dp[i][j+1];
-                    // We can either go right or left at each step
+                    // We can either go right or down at each step
             }
         }
         // The total no. of ways to go from 0,0 to m-1,n-1
