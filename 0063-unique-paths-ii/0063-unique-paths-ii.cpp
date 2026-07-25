@@ -21,7 +21,7 @@ public:
                 if(obstacleGrid[i][j] == 1)
                     dp[i][j] = 0;
                 else{
-                    // We can either go right or left at each step //
+                    // We can either go right or down at each step //
                     // Right movement isn't possible in last col
                     long long ans1 = i<m-1 ? dp[i+1][j] : 0;
                     // Downward movement isn't possible in the last row
