@@ -9,6 +9,7 @@ public:
         // store dist of each cell from the source
         vector<vector<int>> dist(n, vector<int>(n, 1e9));
 
+        // Check if the first cell is 0 ow straightaway return -1
         if (grid[0][0] == 0) {
             dist[0][0] = 1;
             q.push({1, {0, 0}});
@@ -16,17 +17,29 @@ public:
             return -1;
 
         while (!q.empty()) {
-            int d = q.front().first;
-            int r = q.front().second.first;
-            int c = q.front().second.second;
+            // // Works but difficult to read
+            // int d = q.front().first;
+            // int r = q.front().second.first;
+            // int c = q.front().second.second;
+            // q.pop();
+
+            // Improves readability
+            auto it = q.front();
+            int d = it.first;
+            int r = it.second.first;
+            int c = it.second.second;
             q.pop();
 
+            // To traverse in 8 directions
             int dRow[8] = {-1, -1, 0, 1, 1, 1, 0, -1};
             int dCol[8] = {0, 1, 1, 1, 0, -1, -1, -1};
             for (int i = 0; i < 8; i++) {
 
                 int cRow = r + dRow[i];
                 int cCol = c + dCol[i];
+
+                // Apply dijkstra only if u r within the boundary && cell has '0' 
+                // && current distance is lesser than the previously stored
                 if (cRow >= 0 && cRow < n && cCol >= 0 && cCol < n &&
                     grid[cRow][cCol] == 0 && dist[cRow][cCol] > d + 1) {
                     dist[cRow][cCol] = d + 1;
