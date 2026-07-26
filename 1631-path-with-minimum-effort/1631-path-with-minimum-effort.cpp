@@ -1,3 +1,6 @@
+// TC : E log V
+// E = n * m * 4 * log(n*m)
+// SC: O(n*m)
 class Solution {
 public:
     int minimumEffortPath(vector<vector<int>>& heights) {
