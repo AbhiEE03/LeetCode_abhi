@@ -75,6 +75,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0678-valid-parenthesis-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,14 +404,17 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0210-course-schedule-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0210-course-schedule-ii/) | Medium |
 | [0743-network-delay-time](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0210-course-schedule-ii/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
