@@ -218,6 +218,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0547-number-of-provinces/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -253,6 +254,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0207-course-schedule](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0322-coin-change/) | Medium |
+| [0547-number-of-provinces](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0743-network-delay-time/) | Medium |
@@ -366,6 +368,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0210-course-schedule-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0547-number-of-provinces](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0743-network-delay-time/) | Medium |
@@ -402,6 +405,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0133-clone-graph](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0210-course-schedule-ii/) | Medium |
+| [0547-number-of-provinces](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
