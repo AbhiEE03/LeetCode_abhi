@@ -421,4 +421,8 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0743-network-delay-time](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
