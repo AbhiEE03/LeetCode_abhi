@@ -17,23 +17,44 @@
 // };
 
 
-// I wrote the exact same code during the revision through SDESheetChallenge
+// // I wrote the exact same code during the revision through SDESheetChallenge
+// class Solution {
+// public:
+//     int findContentChildren(vector<int>& g, vector<int>& s) {
+//         sort(g.begin(), g.end());
+//         sort(s.begin(), s.end());
+
+//         int l = 0, r = 0, contentChild = 0;
+//         while(l < g.size() && r < s.size()){
+//             if(g[l] <= s[r]){
+//                 contentChild++;
+//                 l++;
+//                 r++;
+//             }else{
+//                 r++;
+//             }
+//         }
+//         return contentChild;
+//     }
+// };
+
+// Third Revision -- Infosys
 class Solution {
 public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
+        int n1 = g.size(), n2 = s.size(), l(0), r(0), cnt(0);
         sort(g.begin(), g.end());
         sort(s.begin(), s.end());
 
-        int l = 0, r = 0, contentChild = 0;
-        while(l < g.size() && r < s.size()){
-            if(g[l] <= s[r]){
-                contentChild++;
+        while(l < n1 && r < n2){
+            if(s[r]>=g[l]){
                 l++;
                 r++;
+                cnt++;
             }else{
                 r++;
             }
         }
-        return contentChild;
+        return cnt;
     }
 };
