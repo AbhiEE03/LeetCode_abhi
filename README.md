@@ -426,4 +426,8 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
