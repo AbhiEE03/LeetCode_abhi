@@ -50,6 +50,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0455-assign-cookies/) | Easy |
+| [0494-target-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -74,6 +75,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0494-target-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -270,6 +272,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0040-combination-sum-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0051-n-queens/) | Hard |
 | [0090-subsets-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0090-subsets-ii/) | Medium |
+| [0494-target-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0494-target-sum/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,8 +439,10 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
