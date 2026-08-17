@@ -79,6 +79,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0678-valid-parenthesis-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0242-valid-anagram](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0242-valid-anagram/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0686-repeated-string-match/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,4 +447,8 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0494-target-sum/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
