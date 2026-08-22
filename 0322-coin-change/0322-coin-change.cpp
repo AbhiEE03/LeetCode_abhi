@@ -4,7 +4,7 @@ public:
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
         // dp[k] = min no. of coins req to make a sum of k
-        // transition: dp[k] = min(dp[k-ci(i belongs from 1 - n)]) + 1
+        // transition: dp[k] = min(dp[k-ci(i belongs from 0 - n-1)]) + 1
         // dp[x] = final subproblem
 
         // To get zero sum u need 0 coins
