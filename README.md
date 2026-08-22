@@ -444,6 +444,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
@@ -463,4 +464,8 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
