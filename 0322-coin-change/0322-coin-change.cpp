@@ -1,3 +1,31 @@
+// Revision //
+class Solution {
+public:
+    int coinChange(vector<int>& coins, int amount) {
+        int n = coins.size();
+        // dp[k] = min no. of coins req to make a sum of k
+        // transition: dp[k] = min(dp[k-ci(i belongs from 1 - n)]) + 1
+        // dp[x] = final subproblem
+
+        // To get zero sum u need 0 coins
+        // For every amount initialise with very large val as if it's imp to reach
+        vector<int> dp(amount + 1, 1e9);
+
+        // Base case = smallest subproblem that needs to be solved
+        dp[0] = 0;
+
+        for(int i = 1; i<=amount; i++){
+            for(int j = 0; j<n ; j++){
+                if(coins[j] <= i)
+                    dp[i] = min(dp[i - coins[j]] + 1, dp[i]);
+            }
+        }
+        return dp[amount] == 1e9 ? -1 : dp[amount];
+
+    }
+};
+
+/*
 // //// Dynamic Programming //// //
 class Solution {
 public:
@@ -59,23 +87,4 @@ public:
 //         return -1;
 //     }
 // };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*/
