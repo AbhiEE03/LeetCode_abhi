@@ -14,8 +14,7 @@ public:
         dp[0] = 1;
 
         for (int j = 0; j < n; j++) {
-            for (int i = 1; i <= amount; i++) {
-                if(i >= coins[j])
+            for (int i = coins[j]; i <= amount; i++) {
                     dp[i] = dp[i - coins[j]] + dp[i];
             }
         }
