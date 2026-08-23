@@ -1,3 +1,29 @@
+class Solution {
+public:
+    int change(int amount, vector<int>& coins) {
+        int n = coins.size();
+
+        // dp[k] = no. of ways to make amount = k
+        // transition: dp[k] = summation of dp[(k-ci) i= 0 - n-1]
+        // dp[amount] = no. of ways to get amount
+
+        // Initialise every amount with ZERO ways
+        vector<unsigned int> dp(amount + 1, 0);
+
+        // Smallest subproblem
+        dp[0] = 1;
+
+        for (int j = 0; j < n; j++) {
+            for (int i = 1; i <= amount; i++) {
+                if(i >= coins[j])
+                    dp[i] = dp[i - coins[j]] + dp[i];
+            }
+        }
+        return dp[amount];
+    }
+};
+
+/*
 // //// 1D DP //// //
 class Solution {
 public:
@@ -20,6 +46,7 @@ public:
     }
 };
 
+*/
 
 // // //// 2D DP //// //
 // class Solution {
