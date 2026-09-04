@@ -116,6 +116,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0048-rotate-image](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0062-unique-paths/) | Medium |
+| [1922-count-good-numbers](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1922-count-good-numbers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0025-reverse-nodes-in-k-group](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0206-reverse-linked-list/) | Easy |
+| [1922-count-good-numbers](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/1922-count-good-numbers/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
