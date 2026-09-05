@@ -1,32 +1,39 @@
 class Solution {
-public:
-    void findCombination(int ind, int target, vector<int>& candidates,
-                         vector<int>& ds, vector<vector<int>>& ans) {
-
-        if (target == 0) {
-            ans.push_back(ds);
+private:
+    void findComb(int idx, int target, vector<int>& arr, vector<int> &curr,
+    vector<vector<int>> &final){
+        // Base Case
+        if(target == 0){
+            final.push_back(curr);
             return;
         }
 
-        for (int i = ind; i < candidates.size(); i++) {
-            if (i > ind && candidates[i] == candidates[i - 1]) continue;
+        // For every idx, u have to make calls till n-1
+        for(int i = idx; i < arr.size(); i++){
 
-            if (candidates[i] > target) break;
+            // If the consecutive elements are equal then skip them after picking the first one 
+            if(i > idx && arr[i] == arr[i-1])
+                continue;
 
-            ds.push_back(candidates[i]);
-            findCombination(i + 1, target - candidates[i], candidates, ds, ans);
-            ds.pop_back();
+            if(arr[i] > target)
+                break;
+
+            curr.push_back(arr[i]);
+            findComb(i+1, target-arr[i], arr, curr, final);
+            curr.pop_back();
         }
     }
 
+public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        // Since u need the unique combinations that too in 
+        // lexicographical order
         sort(candidates.begin(), candidates.end());
+        vector<vector<int>> final;
+        vector<int> curr;
 
-        vector<vector<int>> ans;
-        vector<int> ds;
-
-        findCombination(0, target, candidates, ds, ans);
-
-        return ans;
+        findComb(0, target, candidates, curr, final);
+        return final;
+        
     }
 };
