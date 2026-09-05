@@ -65,6 +65,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0063-unique-paths-ii/) | Medium |
@@ -101,6 +102,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0013-roman-to-integer](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0038-count-and-say/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0165-compare-version-numbers/) | Medium |
@@ -278,6 +280,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0051-n-queens/) | Hard |
@@ -474,4 +477,8 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | ------- | ------- |
 | [0322-coin-change](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0518-coin-change-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
