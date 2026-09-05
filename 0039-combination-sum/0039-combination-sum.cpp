@@ -3,12 +3,13 @@ public:
     void findCombination(int ind, int target, vector<int>& arr,
                          vector<vector<int>>& ans, vector<int>& ds) {
 
-        if (ind == arr.size()) {
-            if (target == 0) {
-                ans.push_back(ds);
-            }
+        if (target == 0) {
+            ans.push_back(ds);
             return;
         }
+
+        if (ind == arr.size())
+            return;
 
         // pick up the element
         if (arr[ind] <= target) {
