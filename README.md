@@ -42,6 +42,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0200-number-of-islands](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -142,6 +143,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0141-linked-list-cycle](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -195,6 +197,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0088-merge-sorted-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0347-top-k-frequent-elements/) | Medium |
