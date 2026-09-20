@@ -44,6 +44,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 | [0215-kth-largest-element-in-an-array](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -247,6 +248,7 @@ Check Out more on : https://leetcode.com/u/abhiee03/
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AbhiEE03/LeetCode_abhi/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
