@@ -1,26 +1,55 @@
+// //// CLEAN CODE //// //
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-
-        // Store the num and its index in map
-        unordered_map<int,int> m; 
+        unordered_map<int, int> mpp;
         vector<int> ans;
+        int sum = 0;
 
-        for(int i=0;i<nums.size();i++){
-            int first=nums[i];
-            int sec=target-first; //What else do we need
+        for (int i = 0; i < nums.size(); i++) {
+            sum = nums[i];
+            int req = target - sum;
 
-            // Look for the req num in the num if its there in then just push the indixes else keep repeating the prev steps
-            if(m.find(sec)!=m.end()){
-                ans.push_back(i);
-                ans.push_back(m[sec]);
-                return ans;
+            if (mpp.find(req) != mpp.end()) {
+                // ans.push_back(i, mpp[req]);
+                return {i, mpp[req]};
+
             }
-            m[first]=i;
+
+            mpp[sum] = i;
         }
-        return {-1, -1};
+        return ans;
     }
 };
+
+
+//  Correct but a bit cluttered //
+
+
+
+// class Solution {
+// public:
+//     vector<int> twoSum(vector<int>& nums, int target) {
+
+//         // Store the num and its index in map
+//         unordered_map<int,int> m; 
+//         vector<int> ans;
+
+//         for(int i=0;i<nums.size();i++){
+//             int first=nums[i];
+//             int sec=target-first; //What else do we need
+
+//             // Look for the req num in the num if its there in then just push the indixes else keep repeating the prev steps
+//             if(m.find(sec)!=m.end()){
+//                 ans.push_back(i);
+//                 ans.push_back(m[sec]);
+//                 return ans;
+//             }
+//             m[first]=i;
+//         }
+//         return {-1, -1};
+//     }
+// };
 
 
 // //// Suitable for cases when we only need to tell if target exists //// //
